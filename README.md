@@ -4,6 +4,9 @@ Disusun oleh : Mutiara Anisa Putri (25)
 XI RPL VI
 SMK TELKOM Malang
 
+![pbo1](https://cloud.githubusercontent.com/assets/22170430/25878509/6eda4080-3555-11e7-92b1-c6bfd80e414a.PNG)
+![pbo2](https://cloud.githubusercontent.com/assets/22170430/25878510/6edc79c2-3555-11e7-8ef2-99a5e358e658.PNG)
+
 Fungsi Button
 Penjelasan
 •	Button simpan akan berfungsi sebagai insert data.
